@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641656278635",
+    "project_id": "maysaraaassy",
+    "storage_bucket": "maysaraaassy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641656278635:android:c628783fd1f9515cffeb2e",
+        "android_client_info": {
+          "package_name": "com.example.maysaraaassy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641656278635-ddl1fhrm46gaft3vhs2uo6ngim5aktq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gXuv10eGPFRgIlUFY09Bebb-MJTXLb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641656278635-ddl1fhrm46gaft3vhs2uo6ngim5aktq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
